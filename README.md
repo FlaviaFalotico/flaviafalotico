@@ -2,8 +2,8 @@
 
 - 🔭 Today I work with Quality Assurance
 - 🌱 Learning:
-          back-end:C#/.NET 
-          front-end: HTML/CSS/JS
+          - back-end: C#/.NET 
+          - front-end: HTML/CSS/JS
 - 📫 Contact me at: flaviafalotico@gmail.com
 - 😄 Pronouns: she/her/ela/dela
 
