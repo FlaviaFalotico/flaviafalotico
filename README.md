@@ -24,7 +24,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Fla-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWkC-S8blo25GKdXxGvMHrfNfYsIT9imMIag7mzETYU5YR5wmIuOVOIswOZlEipkAlj6xSQEsTOknzwqnv0g2lesO4v2pRfqHCLSEn94bFc2D3Fga3tTyfWULWFkWghXlRsDwchi-8_sJh3DC1NuDU=w947-h714-no?authuser=0">
+  <img align="right" alt="Fla-pic" height="200" style="border-radius:200px;" src="https://lh3.googleusercontent.com/pw/AM-JKLWkC-S8blo25GKdXxGvMHrfNfYsIT9imMIag7mzETYU5YR5wmIuOVOIswOZlEipkAlj6xSQEsTOknzwqnv0g2lesO4v2pRfqHCLSEn94bFc2D3Fga3tTyfWULWFkWghXlRsDwchi-8_sJh3DC1NuDU=w947-h714-no?authuser=0">
 </div>
   
  ##
