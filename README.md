@@ -1,4 +1,4 @@
-<img align="center" alt="Gif" height="400" width="860" style="border-radius:50px;" display="block" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
+<img align="center" alt="Gif" height="400" width="850" style="border-radius:50px;" display="block" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 
 
  ##
